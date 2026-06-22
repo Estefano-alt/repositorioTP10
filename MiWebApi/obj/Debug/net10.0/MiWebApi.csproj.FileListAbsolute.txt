@@ -1,0 +1,15 @@
+C:\tp10\tl1-tp10-2026-Yorchh17\MiWebApi\bin\Debug\net10.0\MiWebApi.exe
+C:\tp10\tl1-tp10-2026-Yorchh17\MiWebApi\bin\Debug\net10.0\MiWebApi.deps.json
+C:\tp10\tl1-tp10-2026-Yorchh17\MiWebApi\bin\Debug\net10.0\MiWebApi.runtimeconfig.json
+C:\tp10\tl1-tp10-2026-Yorchh17\MiWebApi\bin\Debug\net10.0\MiWebApi.dll
+C:\tp10\tl1-tp10-2026-Yorchh17\MiWebApi\bin\Debug\net10.0\MiWebApi.pdb
+C:\tp10\tl1-tp10-2026-Yorchh17\MiWebApi\obj\Debug\net10.0\MiWebApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\tp10\tl1-tp10-2026-Yorchh17\MiWebApi\obj\Debug\net10.0\MiWebApi.AssemblyInfoInputs.cache
+C:\tp10\tl1-tp10-2026-Yorchh17\MiWebApi\obj\Debug\net10.0\MiWebApi.AssemblyInfo.cs
+C:\tp10\tl1-tp10-2026-Yorchh17\MiWebApi\obj\Debug\net10.0\MiWebApi.csproj.CoreCompileInputs.cache
+C:\tp10\tl1-tp10-2026-Yorchh17\MiWebApi\obj\Debug\net10.0\MiWebApi.sourcelink.json
+C:\tp10\tl1-tp10-2026-Yorchh17\MiWebApi\obj\Debug\net10.0\MiWebApi.dll
+C:\tp10\tl1-tp10-2026-Yorchh17\MiWebApi\obj\Debug\net10.0\refint\MiWebApi.dll
+C:\tp10\tl1-tp10-2026-Yorchh17\MiWebApi\obj\Debug\net10.0\MiWebApi.pdb
+C:\tp10\tl1-tp10-2026-Yorchh17\MiWebApi\obj\Debug\net10.0\MiWebApi.genruntimeconfig.cache
+C:\tp10\tl1-tp10-2026-Yorchh17\MiWebApi\obj\Debug\net10.0\ref\MiWebApi.dll
